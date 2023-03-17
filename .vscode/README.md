@@ -16,10 +16,8 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-
-
 <p align="center">
-  <img alt="jornada do zero a primeira vaga" src="https://i.ibb.co/LZkpCfH/Travel-Expert-LP-1.jpg" width="100%">
+  <img alt="jornada do zero a primeira vaga" src="https://i.ibb.co/VBNQrnw/Cover.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
