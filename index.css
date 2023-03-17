@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+    text-align: center;
+    padding-top: 160px;
+    background-image: url(https://i.ibb.co/4dBGjhY/background-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    font-family: 'Inter', sans-serif;
+}
+
+h3 {
+    font-size: 16px;
+    line-height: 19px;
+    color: white;
+}
+
+h3 span {
+    color: #FFC700;
+}
+
+
+/*span {
+    especifidade acima tem mais poder que cascata
+    color:blue
+  }*/
+
+h1 {
+    color: #FFC700;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 80px;
+    font-family: 'Emilys Candy', cursive;
+    /*border: 1px solid blue;*/
+    /*border: 1px dashed blue;*/
+    /*border: 10px solid blue;*/
+    /*margem  todos lados*/
+    /*margin:100px;*/
+    /*margem so em cima:*/
+    /*margin-top: 100px;*/
+    /*margem so em baixo:*/
+    /*margin-bottom: 100px;*/
+    /*margem lateral esquerda:*/
+    /*margin-left: 100px;*/
+    /*margem lateral direita:*/
+    /*margin-right: 100px;*/
+    /*altura*/
+    /*height: 200px;*/
+    /*largura*/
+    /*width: 200px;*/
+    /*espaços color-internos*/
+    ;
+    /*padding: 200px;*/
+    /*so em cima*/
+    /*padding-top: 200px;*/
+    /*so em baixo*/
+    /*padding-bottom: 200px;*/
+}
+
+p {
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 72px;
+    color: white;
+    opacity: .7;
+}
+
+a {
+    padding: 12px 32px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: white;
+    opacity: .6;
+    /*border: 1px solid red;*/
+}
+
+
+/*quando passa o mouse em cima se transforma em outro botão*/
+
+
+/*a:hover {
+      text-decoration: none;
+      color:black;
+      background-color: #FFC700;
+  
+  }
+  /*seletor de classe mais especifica que qualquer tag*/
+
+
+/*.btn-primary {
+    text-decoration: none;
+    color:black;
+    background-color: #FFC700;
+    opacity: 1;
+  }*/
+
+
+/*pode resumir assim*/
+
+a:hover,
+.btn-primary {
+    text-decoration: none;
+    color: black;
+    background-color: #FFC700;
+    opacity: 1;
+}
